@@ -46,7 +46,7 @@ const Checkout = () => {
       }
       onClick={redirectToCheckout}
     >
-      BUY MY BOOK
+      BUY A MAUI CAT
     </button>
   )
 }
